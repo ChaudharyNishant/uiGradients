@@ -1,3 +1,7 @@
+### I have changed gradients.json for my personal use, so I'm not sure if anything will work or not.
+#### -Nishant Chaudhary
+<br><br><br><br><br><br>
+
 <p align="center">
   <img src="https://www.dropbox.com/s/h6vdbd2ar3c8mw6/logo.png?dl=0&raw=1" width="240" />
 </p>
